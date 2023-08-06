@@ -1,5 +1,5 @@
 
-#Card Class
+//Card Class
 
 public class Card implements Comparable<Card>{
 	
